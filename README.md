@@ -15,7 +15,7 @@ Wireframes provide a visual reference for discussions between designers, develop
 4. Saving Time & Resources
 Identifying design flaws or feature gaps during the wireframing stage prevents costly revisions later in the development cycle.
 # Key Elements of a Wireframe
-1.# Layout Structure
+1. Layout Structure
 The layout defines the skeletal framework of the interface, determining how components are arranged on a page or screen.
 
 Example:
