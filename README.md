@@ -157,20 +157,20 @@ Additionally, the "Order Summary" was missing from the final confirmation screen
 ## Resolution:
 Thanks to these early wireframes:
 
-#####The design team consolidated the checkout steps into a single, scrollable page, allowing users to input their delivery information, select payment methods, and view their order summary in one flow.
+##### The design team consolidated the checkout steps into a single, scrollable page, allowing users to input their delivery information, select payment methods, and view their order summary in one flow.
 
-#####A progress indicator (breadcrumb navigation) was added at the top of the screen to visually show users where they were in the checkout process.
+##### A progress indicator (breadcrumb navigation) was added at the top of the screen to visually show users where they were in the checkout process.
 
-#####An "Edit Order" button was introduced on the confirmation page, enabling users to make quick changes without starting over.
+##### An "Edit Order" button was introduced on the confirmation page, enabling users to make quick changes without starting over.
 
 ## Impact on the Final Product:
-#####The revised flow reduced checkout time by 30%, as confirmed by usability tests conducted after high-fidelity prototypes were developed.
+1. The revised flow reduced checkout time by 30%, as confirmed by usability tests conducted after high-fidelity prototypes were developed.
 
-##### User satisfaction scores increased, as users found the process clearer and more intuitive.
+2.  User satisfaction scores increased, as users found the process clearer and more intuitive.
 
-##### Developers had a clear blueprint, minimizing rework during the coding phase, as all key interactions and layouts were already validated.
+3.  Developers had a clear blueprint, minimizing rework during the coding phase, as all key interactions and layouts were already validated.
 
-##### Conclusion: The Role of Wireframing in Ensuring User-Friendly Design
+## Conclusion: The Role of Wireframing in Ensuring User-Friendly Design
 This scenario illustrates how wireframing acts as an early detection tool for usability issues, enabling design teams to gather feedback and refine user journeys before expensive development work begins. By visualizing the product’s structure and interactions early, wireframes bridge communication gaps between designers, developers, and stakeholders, ensuring that the final product is intuitive, efficient, and user-centered.
 
 Wireframing is not just a design formality — it’s a critical step in crafting seamless, user-friendly digital experiences.
