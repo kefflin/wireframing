@@ -1,6 +1,6 @@
 # wireframing
 Wireframing is the process of creating a simplified visual guide or blueprint of a website, mobile app, or software interface. It serves as a foundational design tool that outlines the structure, layout, and functionality of a digital product before any detailed design or coding begins.
-# important of wireframing in the design process
+## important of wireframing in the design process
 Wireframes play a critical role in the design and development process for several reasons:
 
 1. Visualizing Layout & Structure
@@ -14,7 +14,7 @@ Wireframes provide a visual reference for discussions between designers, develop
 
 4. Saving Time & Resources
 Identifying design flaws or feature gaps during the wireframing stage prevents costly revisions later in the development cycle.
-# Key Elements of a Wireframe
+## Key Elements of a Wireframe
 1. Layout Structure:
 The layout defines the skeletal framework of the interface, determining how components are arranged on a page or screen.
 
@@ -74,7 +74,7 @@ Contribution to Design:
 Enhances usability by defining clear call-to-action (CTA) points.
 
 Ensures interactive components are logically placed for efficiency.
-# Popular Wireframing Tools
+## Popular Wireframing Tools
 Several tools are available to create effective wireframes, ranging from simple sketching apps to full-fledged design platforms. Here are some of the most commonly used tools:
 
 Figma (Recommended)
@@ -91,10 +91,10 @@ Lucidchart
 
 Pen & Paper (for quick drafts)
 
-# Why Figma?
+## Why Figma?
 Figma is a cloud-based design tool that has become a favorite among designers and teams for wireframing, prototyping, and UI/UX design.
 
-# Key Features:
+## Key Features:
 
 Real-Time Collaboration: Multiple team members can work on the same design file simultaneously.
 
@@ -108,14 +108,14 @@ Version History: Easily track changes and revert to previous versions.
 
 Plugins & Integrations: Extend Figma’s functionality with a wide range of plugins.
 
-# Why it’s Great for Wireframing:
+## Why it’s Great for Wireframing:
 
 Quickly create low-fidelity wireframes using basic shapes and components.
 
 Scale up to high-fidelity designs and interactive prototypes within the same project file.
 
 Easy to share with clients and developers for feedback and collaboration.
-# Benefits of Wireframing in Software Development
+## Benefits of Wireframing in Software Development
 Wireframing offers significant advantages during software development by providing a clear roadmap that aligns design, development, and business goals.
 
 1. Guides the Design Process
